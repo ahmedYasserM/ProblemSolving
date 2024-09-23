@@ -1,3 +1,5 @@
+// Typescript version: 4.9.5
+
 function solution(N: number, A: number[]): number[] {
   let counters = new Array(N).fill(0);
   let m = 0;

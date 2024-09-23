@@ -1,3 +1,5 @@
+// Go version: go1.23.1
+
 package main
 
 import "fmt"
